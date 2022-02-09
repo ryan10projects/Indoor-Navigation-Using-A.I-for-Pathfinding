@@ -1,0 +1,20 @@
+[api-updater (non-obsolete-error-filter)] 2/9/2022 4:01:31 PM : Starting D:/FileHistory/ADMIN/DESKTOP-2O0MQSV/UnityEditor/2020.3.27f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1483.7628ms
+moved types parse time: 82ms
+candidates parse time : 20ms
+C# parse time         : 966ms
+candidates check time : 34ms
+console write time    : 10ms
+
+[api-updater (non-obsolete-error-filter)] 2/9/2022 4:02:06 PM : Starting D:/FileHistory/ADMIN/DESKTOP-2O0MQSV/UnityEditor/2020.3.27f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 46.9967ms
+moved types parse time: 37ms
+candidates parse time : 0ms
+C# parse time         : 133ms
+candidates check time : 20ms
+console write time    : 0ms
+
